@@ -1,0 +1,22 @@
+{
+  "name": "mern_edurika",
+  "version": "1.0.0",
+  "description": "tutorial for full stack app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cupururum/mern_edurika.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cupururum/mern_edurika/issues"
+  },
+  "homepage": "https://github.com/cupururum/mern_edurika#readme",
+  "dependencies": {
+    "graphql-yoga": "^1.15.0"
+  }
+}
